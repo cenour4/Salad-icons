@@ -13,3 +13,7 @@
 <h2 align="center">
   <img src="https://github.com/cenour4/Salad-icons/blob/main/amostra-2.png" alt="amostra-1">
 </h2>
+
+<h2>
+  <img src="https://github.com/cenour4/Salad-icons/blob/main/amostra-1.png" alt="amostra-2">
+</h2>
